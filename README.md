@@ -1,1 +1,4 @@
-This is a scraper that runs on [Morph](https://morph.io). To get started [see the documentation](https://morph.io/documentation)
+# Scrape any Shopify based store's collections.
+
+### Search (across all fields):
+`node shopify.js --savedir ./results --domain bdgastore.com --collection footwear --search presto`
